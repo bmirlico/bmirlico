@@ -48,11 +48,11 @@
 
 ## 📬 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bastienmirlicourtois.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://bastienmirlicourtois.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-mirlicourtois/)
-[![Blog](https://img.shields.io/badge/Blog-thelearningmachine.dev-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://thelearningmachine.dev)
-[![X](https://img.shields.io/badge/@bmirlico-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bmirlico)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bastienmirlicourtois@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bastien-mirlicourtois/)
+[![X](https://img.shields.io/badge/@bmirlico-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bmirlico)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bastienmirlicourtois.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://bastienmirlicourtois.com)
+[![Blog](https://img.shields.io/badge/Blog-thelearningmachine.dev-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://thelearningmachine.dev)
 
 ---
 
@@ -67,6 +67,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bmirlico/bmirlico/output/github-snake.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/bmirlico/bmirlico/output/github-snake.svg" />
 </picture>
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bmirlico&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
