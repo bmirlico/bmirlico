@@ -60,9 +60,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmirlico&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bmirlico&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bmirlico/bmirlico/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bmirlico/bmirlico/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/bmirlico/bmirlico/output/github-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bmirlico&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
