@@ -39,6 +39,7 @@
 
 | Project | Description | Language |
 |---|---|---|
+| 🏓 [**Transcendance**](https://github.com/BdClement/Docker_Transcendance) | Dockerized full-stack ping-pong web app | Python (Django) |
 | 🖥️ [**Webserv**](https://github.com/bmirlico/Webserv) | HTTP web server built from scratch | C++ |
 | 🐚 [**Minishell**](https://github.com/bmirlico/minishell) | Mini bash terminal — Unix processes & forking | C |
 | 🍝 [**Philosophers**](https://github.com/bmirlico/philosophers) | Dining philosophers problem — threads & mutexes | C |
