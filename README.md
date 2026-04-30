@@ -7,6 +7,7 @@
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](#)
 [![Rails](https://img.shields.io/badge/Rails-D30001?logo=rubyonrails&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](#)
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=000)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](#)
