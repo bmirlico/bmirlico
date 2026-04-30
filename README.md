@@ -34,7 +34,6 @@
 | 🌐 [**Portfolio**](https://github.com/bmirlico/my-portfolio) | Personal portfolio with AI conversational widget (ElevenLabs WebRTC) and 3D animations | React, TypeScript, Three.js |
 | 📝 [**Blog**](https://github.com/bmirlico/my-blog) | Technical blog at [thelearningmachine.dev](https://thelearningmachine.dev) | Astro, TypeScript |
 | 🧠 [**Mnemo**](https://github.com/bmirlico/my-own-version-of-anki) | Full-stack flashcard web app deployed on VPS with automated CI/CD — [mnemo.to](https://mnemo.to) | React, FastAPI, PostgreSQL |
-| 💡 [**Coding Challenge Generator**](https://github.com/bmirlico/coding-challenge-generator) | Generate coding challenges using OpenAI API | React, FastAPI, OpenAI |
 
 ### 🏫 42 School
 
