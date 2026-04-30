@@ -29,6 +29,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🦅 [**CallClaw**](https://github.com/bmirlico/call-claw) | AI agent that joins your Google Meet, executes real actions mid-call, and remembers context across meetings — built for the 2026 Mistral Worldwide Hackathon | FastAPI, React, Mistral, ElevenLabs, Recall.ai, Redis |
 | 🧓 [**Elderly**](https://github.com/bmirlico/elderly-companion) | AI phone companion for seniors — [elderly.cc](https://elderly.cc/) — **#1 winner** at the 2026 {Tech: Europe} Paris AI Hackathon | FastAPI, Lovable, Twilio, Dust, Gradium, OpenAI |
 | 🌐 [**Portfolio**](https://github.com/bmirlico/my-portfolio) | Personal portfolio with AI conversational widget (ElevenLabs WebRTC) and 3D animations | React, TypeScript, Three.js |
 | 📝 [**Blog**](https://github.com/bmirlico/my-blog) | Technical blog at [thelearningmachine.dev](https://thelearningmachine.dev) | Astro, TypeScript |
