@@ -29,21 +29,21 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🦅 [**CallClaw**](https://github.com/bmirlico/call-claw) | AI agent that joins your Google Meet, executes real actions mid-call, and remembers context across meetings — built for the 2026 Mistral Worldwide Hackathon | FastAPI, React, Mistral, ElevenLabs, Recall.ai, Redis |
-| 🧓 [**Elderly**](https://github.com/bmirlico/elderly-companion) | AI phone companion for seniors — [elderly.cc](https://elderly.cc/) — **#1 winner** at the 2026 {Tech: Europe} Paris AI Hackathon | FastAPI, Lovable, Twilio, Dust, Gradium, OpenAI |
-| 🌐 [**Portfolio**](https://github.com/bmirlico/my-portfolio) | Personal portfolio with AI conversational widget (ElevenLabs WebRTC) and 3D animations | React, TypeScript, Three.js |
-| 📝 [**Blog**](https://github.com/bmirlico/my-blog) | Technical blog at [thelearningmachine.dev](https://thelearningmachine.dev) | Astro, TypeScript |
-| 🧠 [**Mnemo**](https://github.com/bmirlico/my-own-version-of-anki) | Full-stack flashcard web app deployed on VPS with automated CI/CD — [mnemo.to](https://mnemo.to) | React, FastAPI, PostgreSQL |
+| 🦅&nbsp;[**CallClaw**](https://github.com/bmirlico/call-claw) | AI agent that joins your Google Meet, executes real actions mid-call, and remembers context across meetings — built for the 2026 Mistral Worldwide Hackathon | FastAPI, React, Mistral, ElevenLabs, Recall.ai, Redis |
+| 🧓&nbsp;[**Elderly**](https://github.com/bmirlico/elderly-companion) | AI phone companion for seniors — [elderly.cc](https://elderly.cc/) — **#1 winner** at the 2026 {Tech: Europe} Paris AI Hackathon | FastAPI, Lovable, Twilio, Dust, Gradium, OpenAI |
+| 🌐&nbsp;[**Portfolio**](https://github.com/bmirlico/my-portfolio) | Personal portfolio with AI conversational widget (ElevenLabs WebRTC) and 3D animations | React, TypeScript, Three.js |
+| 📝&nbsp;[**Blog**](https://github.com/bmirlico/my-blog) | Technical blog at [thelearningmachine.dev](https://thelearningmachine.dev) | Astro, TypeScript |
+| 🧠&nbsp;[**Mnemo**](https://github.com/bmirlico/my-own-version-of-anki) | Full-stack flashcard web app deployed on VPS with automated CI/CD — [mnemo.to](https://mnemo.to) | React, FastAPI, PostgreSQL |
 
 ### 🏫 42 School
 
 | Project | Description | Language |
 |---|---|---|
-| 🏓 [**Transcendance**](https://github.com/BdClement/Docker_Transcendance) | Dockerized full-stack ping-pong web app | Python (Django) |
-| 🖥️ [**Webserv**](https://github.com/bmirlico/Webserv) | HTTP web server built from scratch | C++ |
-| 🐚 [**Minishell**](https://github.com/bmirlico/minishell) | Mini bash terminal — Unix processes & forking | C |
-| 🍝 [**Philosophers**](https://github.com/bmirlico/philosophers) | Dining philosophers problem — threads & mutexes | C |
-| 🔗 [**Pipex**](https://github.com/bmirlico/pipex) | Unix pipe mechanism reproduction | C |
+| 🏓&nbsp;[**Transcendance**](https://github.com/BdClement/Docker_Transcendance) | Dockerized full-stack ping-pong web app | Python (Django) |
+| 🖥️&nbsp;[**Webserv**](https://github.com/bmirlico/Webserv) | HTTP web server built from scratch | C++ |
+| 🐚&nbsp;[**Minishell**](https://github.com/bmirlico/minishell) | Mini bash terminal — Unix processes & forking | C |
+| 🍝&nbsp;[**Philosophers**](https://github.com/bmirlico/philosophers) | Dining philosophers problem — threads & mutexes | C |
+| 🔗&nbsp;[**Pipex**](https://github.com/bmirlico/pipex) | Unix pipe mechanism reproduction | C |
 
 ---
 
